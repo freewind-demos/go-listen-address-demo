@@ -1,10 +1,10 @@
-Go Hello World Demo
-===================
+Go Net Listen & IP Demo
+=======================
+
+Get my ip and inspect the address when binding 0.0.0.0
 
 ```
 brew install go
-go get
 go run hello.go
 ```
 
-You will see `Hello, go!`
